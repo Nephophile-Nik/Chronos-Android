@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chronos</string>
+    <string name="accessibility_description">Lets Chronos press the Send button in WhatsApp, only for messages you scheduled, and only when automatic sending is turned on. Chronos never reads your chats.</string>
+</resources>
